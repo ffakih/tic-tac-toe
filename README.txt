@@ -13,3 +13,5 @@
 * If the AI goes first it will never lose.
 
 
+* AI Implemented using Monte Carlo Search Algorithm
+
